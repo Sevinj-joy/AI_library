@@ -1,0 +1,2 @@
+A curated collection of books and learning resources focused on Artificial Intelligence, Machine Learning, Data Science, and related fields.
+This repository brings together useful materials for building a strong foundation in AI and exploring both theoretical concepts and practical applications. It is intended as a personal learning library and a useful reference for anyone interested in developing their knowledge and skills in AI.
